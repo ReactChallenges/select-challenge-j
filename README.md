@@ -1,7 +1,7 @@
 
 # Select Challenge
 
-Select challenge made to understand the basics of useState and useEffect
+Select challenge made to understand the basics of ```useState``` and ```useEffect```
 
 
 
@@ -42,8 +42,8 @@ Start the server
 ## Tasks
 
 + Make the component client sided
-+ Make use of useState()
-+ Make use of useEffect()
++ Make use of ```useState()```
++ Make use of ```useEffect()```
 + On select change, render a text containing the new selected car 1s after the change.
 
 
