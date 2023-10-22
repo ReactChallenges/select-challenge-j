@@ -1,7 +1,7 @@
 
 # Select Challenge
 
-Conditionals challenge made on ReactChallenges.com to start the depth of useState() with conditionals
+Select challenge made to understand the basics of useState and useEffect
 
 
 
